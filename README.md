@@ -1,8 +1,12 @@
 # ACF-GIT
-Contribute to this repository
 
-Please Enter Your Name
+> Contribute to this repository.
 
-Yoshitha Rathnayake
 
-Seyed Akeel
+1) Please enter Your Name here.
+
+1. SACK-ACF (Owner)
+2. Seyed Akeel (Contributor)
+3. Yoshitha Rathnayake (Contributor)
+4.
+5.
