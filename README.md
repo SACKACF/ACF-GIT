@@ -1,6 +1,6 @@
 # ACF-GIT
 
-> Contribute to this repository
+> Contribute to this repository.
 
 
 1) Please Enter Your Name here.
