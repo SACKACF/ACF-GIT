@@ -3,7 +3,7 @@
 > Contribute to this repository.
 
 
-1) Please Enter Your Name here.
+1) Please enter Your Name here.
 
 1. SACK-ACF (Owner)
 2. Seyed Akeel (Contributor)
