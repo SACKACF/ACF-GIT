@@ -11,7 +11,7 @@
 
 2. Seyed Akeel - XXXXXX (Contributor)
 
-3. Yoshitha Rathnayake / <a href="">@yoshitharathnayake2008<a> - 11629 (Contributor)
+3. Yoshitha Rathnayake / <a href="https://github.com/yoshitharathnayake2008">@yoshitharathnayake2008<a> - 11629 (Contributor)
 
 4. T.I.D Silva - XXXXXX (Contributor)
 
