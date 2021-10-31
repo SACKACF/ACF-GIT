@@ -9,7 +9,7 @@
  
 1. SACK ACF / <a href="https://github.com/SACKACF">@SACKACF<a> (Owner)
 
-2. Seyed Akeel - XXXXXX (Contributor)
+2. Seyed Akeel / <a href="https://github.com/akeel230">@akeel230<a> - XXXXXX (Contributor)
 
 3. Yoshitha Rathnayake / <a href="https://github.com/yoshitharathnayake2008">@yoshitharathnayake2008<a> - 11629 (Contributor)
 
