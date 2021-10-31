@@ -11,7 +11,7 @@
 
 2. Seyed Akeel / <a href="https://github.com/akeel230">@akeel230<a> - XXXXXX (Contributor)
  
-3. Hasthika Girihagama / <a href="https://github.com/akeel230">@akeel230<a> - XXXXXX (Contributor) 
+3. Hasthika Girihagama / <a href="https://github.com/Hasthikagirihagama">@Hasthikagirihagama<a> - XXXXXX (Contributor) 
 
 4. Yoshitha Rathnayake / <a href="https://github.com/yoshitharathnayake2008">@yoshitharathnayake2008<a> - 11629 (Contributor)
 
