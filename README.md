@@ -17,5 +17,5 @@
 
 5. T.I.D Silva / <a href="https://github.com/thadithasilva">@thadithasilva<a>  - XXXXXX (Contributor)
 
-6. Janitha Wijayawardana - XXXXXX (Contributor)
+6. Janitha Wijayawardana / <a href="https://github.com/JanithaWijayawardana">@JanithaWijayawardana<a> - XXXXXX (Contributor)
 
