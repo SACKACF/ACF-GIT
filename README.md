@@ -13,7 +13,7 @@
 
 3. Yoshitha Rathnayake / <a href="https://github.com/yoshitharathnayake2008">@yoshitharathnayake2008<a> - 11629 (Contributor)
 
-4. T.I.D Silva - XXXXXX (Contributor)
+4. T.I.D Silva / <a href="https://github.com/thadithasilva">@thadithasilva<a>  - XXXXXX (Contributor)
 
 5. Janitha Wijayawardana - XXXXXX (Contributor)
 
