@@ -3,19 +3,19 @@
 > Welcome! Please, Contribute to this repository.
 
 
-> Enter Your Name, Admission Number and Your Role here.
+> Enter Your Name, Admission Number and Your Class Number here.
 
-> eg :- 1. Name / User Name - Admission Number (Role)
+> eg :- 1. Name / User Name - Admission Number (Class Number)
  
-1. SACK ACF / <a href="https://github.com/SACKACF">@SACKACF<a> (Owner)
+1. SACK ACF (Owner)
 
-2. Seyed Akeel / <a href="https://github.com/akeel230">@akeel230<a> - XXXXXX (Contributor)
+2. Seyed Akeel - XXXXXX 
  
-3. Hasthika Girihagama / <a href="https://github.com/Hasthikagirihagama">@Hasthikagirihagama<a> - 10620 (Contributor) 
+3. Hasthika Girihagama - 10620 
 
-4. Yoshitha Rathnayake / <a href="https://github.com/yoshitharathnayake2008">@yoshitharathnayake2008<a> - 11629 (Contributor)
+4. Yoshitha Rathnayake - 11629
 
-5. T.I.D Silva / <a href="https://github.com/thadithasilva">@thadithasilva<a>  - XXXXXX (Contributor)
+5. T.I.D Silva - XXXXXX
 
-6. Janitha Wijayawardana / <a href="https://github.com/JanithaWijayawardana">@JanithaWijayawardana<a> - XXXXXX (Contributor)
+6. Janitha Wijayawardana - XXXXXX
 
