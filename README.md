@@ -3,19 +3,19 @@
 > Welcome! Please, Contribute to this repository.
 
 
-> Enter Your Name, Admission Number and Your Class Number here.
+> Enter Your Name, Admission Number and Your Class here.
 
-> eg :- 1. Name / User Name - Admission Number (Class Number)
+> eg :- 1. Name - Admission Number (Class)
  
 1. SACK ACF (Owner)
 
-2. Seyed Akeel - XXXXXX 
+2. Seyed Akeel - XXXXXX (Grade - XX)
  
-3. Hasthika Girihagama - 10620 
+3. Hasthika Girihagama - 10620 (Grade - XX) 
 
-4. Yoshitha Rathnayake - 11629
+4. Yoshitha Rathnayake - 11629 (Grade - 8D)
 
-5. T.I.D Silva - XXXXXX
+5. T.I.D Silva - XXXXXX (Grade - XX)
 
-6. Janitha Wijayawardana - XXXXXX
+6. Janitha Wijayawardana - XXXXXX (Grade - XX)
 
