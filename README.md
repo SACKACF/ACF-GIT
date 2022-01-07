@@ -4,7 +4,14 @@
 
 > Contribute to this repository.
 
-
+#
+- Clone your forked repository
+  
+```
+https://github.com/Yoshitha-SACK/ACF-GIT.git
+cd ACF-GIT
+```
+#
 > Please Enter Your Name, Admission Number and Class here.
 
 ```
