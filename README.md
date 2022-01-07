@@ -31,7 +31,4 @@ cd ACF-GIT
 ```
 
 #
-## Contributors 
-  
-#
-**Thank You For Contributing!.**
+  **<div align="center"><b><i>Thank You For Contributing!.</i></b></div>**
