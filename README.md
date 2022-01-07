@@ -8,7 +8,7 @@
 - Clone your forked repository
   
 ```
-https://github.com/Yoshitha-SACK/ACF-GIT.git
+git clone https://github.com/Yoshitha-SACK/ACF-GIT.git
 cd ACF-GIT
 ```
 #
