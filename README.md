@@ -6,7 +6,7 @@
 > Please Enter Your Name, Admission Number and Class here.
 
 ```
-> eg :- 1. Name - Admission Number (Class)
+> Eg :- 1. Name - Admission Number (Class)
 ```
 
 ``` 
