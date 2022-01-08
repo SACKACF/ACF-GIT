@@ -1,19 +1,34 @@
-# SACK ACF GIT
+# <div align="center"><a href="https://github.com/SACKACF/ACF-GIT"><b><i>SACK ACF GIT</i></b></a></div>
+
+# <div align="center"><img src="St. Anthony's College Kandy (Logo).png"><img src="ACF Logo.jpg" width="225px">
 
 > Contribute to this repository.
 
+#
+- Clone your forked repository
+  
+```
+git clone https://github.com/Yoshitha-SACK/ACF-GIT.git
+cd ACF-GIT
+```
+#
+> Please Enter Your Name, Admission Number and Class here.
 
-> Please Enter Your Name and Admission Numbers here.
+```
+> Eg :- 1. Name - Admission Number (Class)
+```
 
-> eg :- 1. Name - Admission Number
- 
+``` 
 1. SACK ACF (Owner)
 
-2. Seyed Akeel - ................
+2. Seyed Akeel - _______________
 
-3. Yoshitha Rathnayake - 11629
+3. Yoshitha Rathnayake - 11629 (8-D)
 
-4. T.I.D Silva - ................
+4. T.I.D Silva - _______________ (8-D)
 
-5. Janitha Wijayawardana - ...............
+5. Janitha Wijayawardana - _______________
+```
 
+#
+  **<div align="center"><b><i>Thank You For Contributing!.</i></b></div>**
