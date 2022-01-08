@@ -21,13 +21,13 @@ cd ACF-GIT
 ``` 
 1. SACK ACF (Owner)
 
-2. Seyed Akeel - ................
+2. Seyed Akeel - _______________
 
 3. Yoshitha Rathnayake - 11629 (8-D)
 
-4. T.I.D Silva - ................ (8-D)
+4. T.I.D Silva - _______________ (8-D)
 
-5. Janitha Wijayawardana - ...............
+5. Janitha Wijayawardana - _______________
 ```
 
 #
